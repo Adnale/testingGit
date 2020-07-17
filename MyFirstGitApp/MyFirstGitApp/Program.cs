@@ -10,6 +10,7 @@ namespace MyFirstGitApp
     {
         static void Main(string[] args)
         {
+            //something from gitup
         }
     }
 }
